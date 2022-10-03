@@ -11,7 +11,7 @@ Aplicação responsíva, para dispositivos mobile, talbets e desktops. Aplicaç�
 
 PROJETO:
 
-![image](https://user-images.githubusercontent.com/107516003/193626123-e897e846-8e23-4bf2-a670-012797432ba1.png)
+![image](https://user-images.githubusercontent.com/107516003/193652764-86b97e39-29f6-4aa5-b87c-327137c90e39.png)
 
 
 
