@@ -21,8 +21,18 @@ Aplicação responsíva, para dispositivos mobile, talbets e desktops. Aplicaç�
 
 
 
+
+
+
+
+
 #Onde os dados foram preenchidos de maneira equivocada. 
 ![image](https://user-images.githubusercontent.com/107516003/193626438-7215dc9b-958e-46f7-8d4f-c152f6a8ed0a.png)
+
+
+
+
+
 
 
 #Dados preenchidos de maneira correta
